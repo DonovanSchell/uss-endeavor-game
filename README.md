@@ -2,6 +2,8 @@
  
 **A cozy, episodic space adventure — Season One**
  
+**[▶ Play now](https://donovanschell.github.io/uss-endeavor-game/)** — no install, no account, just open and go.
+ 
 You're the captain of a small exploration vessel, months out on deployment. Across nine episodes, you'll make first contact, navigate diplomatic incidents no manual prepared you for, wake something on a derelict ship that shouldn't still be running, fly into a region of space where the instruments can't agree with each other, and eventually — finally — bring your crew home.
  
 There's no combat score, no fail states that end your run, and no correct answers waiting to be found. Just a ship, a crew, and a season's worth of choices that actually stick.
