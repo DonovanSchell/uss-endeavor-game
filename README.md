@@ -1,4 +1,4 @@
-# USS *Amaranth*
+# USS *Endeavor*
  
 **A cozy, episodic space adventure — Season One**
  
